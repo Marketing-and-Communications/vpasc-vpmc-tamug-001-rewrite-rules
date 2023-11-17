@@ -1,4 +1,5 @@
 [
+    "^/mare /marr/index.html [R=301,L,NC]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
