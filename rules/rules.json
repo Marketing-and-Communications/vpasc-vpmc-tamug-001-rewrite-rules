@@ -2,5 +2,6 @@
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
-    "^(((?!\\.).)*)$ $1/index.html [R,L]"
+    "^(((?!\\.).)*)$ $1/index.html [R,L]",
+    "/reslife/ /cll/ [R=301,L,NC]"
 ]
