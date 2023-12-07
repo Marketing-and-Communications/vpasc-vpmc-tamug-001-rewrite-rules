@@ -1,6 +1,6 @@
 [
     "^/mare /marr/index.html [R=301,L,NC]",
-    "/studentaffairs/currentstudents/index.html /students/current/index.html [R=301,L,NC]"
+    "/studentaffairs/currentstudents/index.html /students/current/index.html [R=301,L,NC]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
