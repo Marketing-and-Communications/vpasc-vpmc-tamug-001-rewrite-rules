@@ -4,5 +4,5 @@
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
     "^(((?!\\.).)*)$ $1/index.html [R,L]",
-    "^/reslife/ /cll/index.html [R=301,L,NC]"
+    "^/reslife /cll/index.html [R=301,L,NC]"
 ]
