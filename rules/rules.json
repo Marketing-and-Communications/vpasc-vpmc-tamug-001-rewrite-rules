@@ -1,6 +1,6 @@
 [
-    "^/mare/(.*)$ /marr/$1 [R=301,L]",
-    "^/reslife /cll/$1 [R=301,L]",
+    "^/mare/(.*)$ /marr/$1 [R=301,NC]",
+    "^/reslife /cll/$1 [R=301,L,NC]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
