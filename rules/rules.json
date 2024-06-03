@@ -1,5 +1,6 @@
 [
     "^/newsroom/2015articles/Groundbreaking.html https://news.galveston.tamu.edu/groundbreaking-held-for-46-million-academic-building-at-texas-am-galveston/ [R=301,L,NC]",
+    "^/mare /marr/index.html [R=301,L,NC]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
