@@ -472,6 +472,7 @@
   "^/newsroom/2013articles/WHM%20poster%202013%20-%20Updated.pdf https://news.galveston.tamu.edu/in-the-news/ [R=301,L,NC]",
   "^/mare /marr/index.html [R=301,L,NC]",
   "^/library/index.html https://library.tamu.edu/galveston/index.php [R=301,L,NC]",
+  "^/library/about/People.html https://library.tamu.edu/galveston/index.php [R=301,L,NC]",
   "^/library/* https://library.tamu.edu/galveston/ [R=301,L,NC]",
   "^/cals/tsi/* /cals/incoming/tsi/index.html [R=301,L,NC]",
   "^/cals/mpe/* /cals/incoming/mpe/index.html [R=301,L,NC]",
