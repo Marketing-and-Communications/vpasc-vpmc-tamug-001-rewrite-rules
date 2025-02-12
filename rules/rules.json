@@ -470,7 +470,7 @@
   "^/newsroom/2014articles/Texas%20AM%20Release%20_%20Financial%20Close%20_%20FINAL.pdf https://news.galveston.tamu.edu/wp-content/uploads/2024/05/Texas-AM-Release-_-Financial-Close-_-FINAL.pdf [R=301,L,NC]",
   "^/newsroom/2013articles/BlackHistoryMonth2013.pdf https://news.galveston.tamu.edu/in-the-news/ [R=301,L,NC]",
   "^/newsroom/2013articles/WHM%20poster%202013%20-%20Updated.pdf https://news.galveston.tamu.edu/in-the-news/ [R=301,L,NC]",
-  "^/newsroom/(.*) https://news.galveston.tamu.edu/ [R=301,L,NC]",
+  "^/newsroom/.* https://news.galveston.tamu.edu/ [R=301,L,NC]",
   "^/mare /marr/index.html [R=301,L,NC]",
   "^/library/index.html https://library.tamu.edu/galveston/index.php [R=301,L,NC]",
   "^/library/about/People.html https://library.tamu.edu/galveston/index.php [R=301,L,NC]",
