@@ -1,4 +1,5 @@
 [
+  "^/wifi/.* https://www.tamug.edu/it/services/connect-communicate-collaborate/index.html#Wireless [R=302,L,NC]",
   "^/newsroom/2015articles/Groundbreaking.html https://news.galveston.tamu.edu/groundbreaking-held-for-46-million-academic-building-at-texas-am-galveston/ [R=301,L,NC]",
   "^/newsroom/2015articles/WorkboatoftheYear.html https://news.galveston.tamu.edu/texas-am-galvestons-r-v-trident-awarded-significant-workboat-of-the-year/ [R=301,L,NC]",
   "^/newsroom/2015articles/RegentsProfessorAward2.html https://news.galveston.tamu.edu/texas-am-galveston-marine-science-professor-receives-prestigious-regents-professor-award/ [R=301,L,NC]",
@@ -475,7 +476,6 @@
   "^/library/index.html https://library.tamu.edu/galveston/index.php [R=301,L,NC]",
   "^/library/about/People.html https://library.tamu.edu/galveston/index.php [R=301,L,NC]",
   "^/library/.* https://library.tamu.edu/galveston/ [R=301,L,NC]",
-  "^/wifi/.* https://www.tamug.edu/it/services/connect-communicate-collaborate/index.html#Wireless [R=301,L,NC]",
   "^/cals/tsi/* /cals/incoming/tsi/index.html [R=301,L,NC]",
   "^/cals/mpe/* /cals/incoming/mpe/index.html [R=301,L,NC]",
   "^//.* /index.html [R,L]",
