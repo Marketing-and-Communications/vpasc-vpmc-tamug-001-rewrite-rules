@@ -1,8 +1,8 @@
 [
   "^/wifi/.* https://www.tamug.edu/it/services/connect-communicate-collaborate/index.html#Wireless [R=302,L,NC]",
-  "^/academics/departments.html#Computer-Science-and-Engineering https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
-  "^/academics/departments.html#Engineering-at-Galveston https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
-  "^/academics/departments.html#Ocean-Engineering https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
+  "^/academics/departments.html(#Computer-Science-and-Engineering)$ https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
+  "^/academics/departments.html(#Engineering-at-Galveston)$ https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
+  "^/academics/departments.html(#Ocean-Engineering)$ https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
   "^/academics/departments.html https://marine.tamu.edu/academics/departments.html [R=301,L,NC]",
   "^/list/index.html https://marine.tamu.edu/academics/maritime-studies/index.html [R=301,L,NC]",
   "^/list/degrees/index.html https://marine.tamu.edu/academics/maritime-studies/academics/index.html [R=301,L,NC]",
