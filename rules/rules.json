@@ -1,8 +1,5 @@
 [
   "^/wifi/.* https://www.tamug.edu/it/services/connect-communicate-collaborate/index.html#Wireless [R=302,L,NC]",
-  "^/academics/departments.html(#Computer-Science-and-Engineering)$ https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
-  "^/academics/departments.html(#Engineering-at-Galveston)$ https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
-  "^/academics/departments.html(#Ocean-Engineering)$ https://marine.tamu.edu/academics/engineering-galveston/index.html [R=301,L,NC]",
   "^/academics/departments.html https://marine.tamu.edu/academics/departments.html [R=301,L,NC]",
   "^/list/index.html https://marine.tamu.edu/academics/maritime-studies/index.html [R=301,L,NC]",
   "^/list/degrees/index.html https://marine.tamu.edu/academics/maritime-studies/academics/index.html [R=301,L,NC]",
@@ -55,6 +52,7 @@
   "^/fsci/faculty-bios/JesseWarren.html https://marine.tamu.edu/academics/foundational-sciences/directory/jesse-warren.html [R=301,L,NC]",
   "^/fsci/faculty-bios/Eunjeong-Yi.html https://marine.tamu.edu/academics/foundational-sciences/directory/eunjeong-yi.html [R=301,L,NC]",
   "^/marb/index.html https://marine.tamu.edu/academics/marine-biology/index.html [R=301,L,NC]",
+  "^/marb/MARB-MCES-Orders.html https://marine.tamu.edu/academics/marine-biology/resources/marb-mces-orders.html [R=301,L,NC]",
   "^/marb/degrees/index.html https://marine.tamu.edu/academics/marine-biology/academics/index.html [R=301,L,NC]",
   "^/marb/admissions/index.html https://marine.tamu.edu/academics/marine-biology/academics/index.html [R=301,L,NC]",
   "^/marb/currentstudents/index.html https://marine.tamu.edu/marine-biology/resources/index.html [R=301,L,NC]",
