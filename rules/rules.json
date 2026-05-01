@@ -1,6 +1,7 @@
 [
   "^/wifi/.* https://www.tamug.edu/it/services/connect-communicate-collaborate/index.html#Wireless [R=302,L,NC]",
   "^/ImportantContactNumbers.html https://www.tamug.edu/phonebook.html [R=301,L,NC]",
+  "^/mast/index.html https://marine.tamu.edu/academics/undergraduate-majors/maritime-studies.html [R=301,L,NC]",
   "^/academics/departments.html https://marine.tamu.edu/academics/departments.html [R=301,L,NC]",
   "^/list/index.html https://marine.tamu.edu/academics/maritime-studies/index.html [R=301,L,NC]",
   "^/list/degrees/index.html https://marine.tamu.edu/academics/maritime-studies/academics/index.html [R=301,L,NC]",
