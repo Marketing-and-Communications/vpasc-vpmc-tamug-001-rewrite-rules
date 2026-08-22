@@ -1,4 +1,6 @@
 [
+  "^/corps/pages/Prospective-Cadets/TAMMA Application NROTC Release 2021\.pdf$ https://maritime.tamu.edu/_files/_documents/tamma-application-nrotc-release-2021.pdf [R=301,L,NC]",
+  "^/corps/pages/Prospective-Cadets/NROTC-College-Program-Application\.pdf$ https://maritime.tamu.edu/_files/_documents/nrots-college-program-application.pdf [R=301,L,NC]",
   "^/corps/pages/Prospective-Cadets/prospective-cadets.html https://maritime.tamu.edu/admissions/index.html [R=301,L,NC]",
   "^/corps/pages/About/administration.html https://maritime.tamu.edu/directory/index.html [R=301,L,NC]",
   "^/corps/pages/Cadet-Resources/O-Week.html https://maritime.tamu.edu/corps/o-week.html [R=301,L,NC]",
